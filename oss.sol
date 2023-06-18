@@ -4,7 +4,7 @@
 
 /**
  *OSS submitted for verification at BscScan.com on 2022-09-15
-*/
+
 
 Official Links
 
@@ -13,7 +13,7 @@ Twitter: https://twitter.com/osschain.com
 YouTube: https://www.youtube.com/@osschain
 Website: http://osschain.com/
 GitHub: https://github.com/osschain/
-
+*/
 
 pragma solidity 0.5.16;
 
