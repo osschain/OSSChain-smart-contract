@@ -33,7 +33,7 @@ Osschain is a multi-faceted technology enterprise encompassing specialized ventu
 
 🌐 Official Gitbook: https://osschain.gitbook.io
 
-📡 Official Global Telegram Community: https://twitter.com/osschain
+📡 Official Global Telegram Community: [https://twitter.com/osschain](https://t.me/osschain)
 
 📡 Official Github: https://github.com/osschain/
 
