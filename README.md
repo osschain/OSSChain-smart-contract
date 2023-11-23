@@ -29,14 +29,16 @@ Osschain is a multi-faceted technology enterprise encompassing specialized ventu
 
 ### Links & Resources
 
+📜 Paragraph: https://paragraph.xyz/@osschain.eth
+
 🌐 Official website: ​https://osschain.com/
 
-🌐 Official Gitbook: https://osschain.gitbook.io
+🌐 Official Gitbook: https://osschain.gitbook.io/
 
-📡 Official Global Telegram Community: [https://twitter.com/osschain](https://t.me/osschain)
+📡 Official Global Telegram Community: https://t.me/osschain/
 
 📡 Official Github: https://github.com/osschain/
 
 🐦 Official Twitter: https://twitter.com/osschain
 
-🕹️ Discord channel:​ https://discord.com/channels/1124299437695586364/
+🕹️ Discord channel:​ https://discord.gg/bSb3YkX4B9
