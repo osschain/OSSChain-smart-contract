@@ -6,18 +6,19 @@ OSSChain is not just another entrant in the blockchain arena; it's a testament t
 
     Project Name: OSSchain
     Token Name: OSS Token
-    Blockchain: Polygon
+    Blockchain: Polygon, BNB Chain
     Max Supply: 200,000,000 OSS
     Contract: https://polygonscan.com/token/0x655304e9cc103b47f0afa0825767d6cce426717c
+    Contract: https://bscscan.com/token/0x48f8CF80dBE25d132e0877c8cAFF1D605a46F4E5
     Sector: Technology & Software
 
 ### Core Services:
     myGO: Custom Software Development
     SERVER1: Web Hosting
-    Wik.Ge: Website Builder
     mySEO.dev: SEO Analysis
     Linkers.dev: URL Shortener
-    AI Automation and many more.
+    AIOSS.Dev: AI-driven content
+    StatOSS.Dev: Privacy focused analytics.
 
 
 
