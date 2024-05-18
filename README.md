@@ -31,7 +31,7 @@ Osschain is a multi-faceted technology enterprise encompassing specialized ventu
 ### Links & Resources
 
 
-📡 https://www.coingecko.com/en/coins/osschain
+📡 CoinGecko: https://www.coingecko.com/en/coins/osschain
 
 📜 Paragraph: https://paragraph.xyz/@osschain.eth
 
